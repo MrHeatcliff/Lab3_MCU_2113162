@@ -1,0 +1,6 @@
+fsm_for_leds.c:21:6:initToNormalRun	8	static
+fsm_for_leds.c:28:6:fsmForLeds	8	static
+fsm_for_leds.c:74:6:fsm_for_set	8	static
+fsm_for_leds.c:102:6:blinkyLeds	8	static
+fsm_for_leds.c:127:6:updateSetState	16	static
+fsm_for_leds.c:142:6:fsm	8	static

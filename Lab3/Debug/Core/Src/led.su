@@ -1,0 +1,10 @@
+led.c:38:6:control_traffic_light	16	static
+led.c:43:6:init_led	8	static
+led.c:48:6:init_traffic_light	4	static
+led.c:62:6:scan7SEG	8	static
+led.c:72:6:update_led_buf	16	static
+led.c:80:6:off_all7led	16	static
+led.c:84:6:update7led	16	static
+led.c:111:6:display	24	static
+led.c:121:6:display7SEG	32	static
+led.c:157:6:init7SEG	4	static
